@@ -1,33 +1,25 @@
 # Sicilia in Famiglia
 
-Landing page per promuovere:
-- esperienze in Sicilia
-- hotel partner con sconto
-- guida digitale anti-errori
+Landing page per famiglie che vogliono organizzare vacanze in Sicilia senza errori.
 
 ## 🎯 Obiettivo
-Aiutare famiglie a organizzare vacanze senza errori.
+- Evitare errori
+- Proporre hotel selezionati
+- Vendere guida digitale
 
-## 💡 Funzionamento
+## 💰 Funnel
 Traffico → Landing → Guida → WhatsApp → Hotel
 
 ## 🚀 Deploy
-Puoi pubblicare facilmente su:
-- Netlify
-- Vercel
-- GitHub Pages
-
-## 📁 Struttura
-- index.html → pagina principale
-- style.css → stile
-- assets/ → logo
+GitHub Pages:
+Settings → Pages → main → root
 
 ## 🔧 Personalizzazione
-- Cambia numero WhatsApp
-- Inserisci vero logo
-- Collega bottone guida
+- Inserire numero WhatsApp
+- Collegare guida
+- Aggiungere logo
 
-## 📈 Futuro
-- Checkout guida
-- Funnel WhatsApp
+## 📈 Evoluzione
+- Funnel completo
 - Automazioni
+- Ads
